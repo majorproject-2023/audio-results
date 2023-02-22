@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/audio-results/static/css/main.756af292.css",
+    "main.js": "/audio-results/static/js/main.6e9ac1d4.js",
+    "index.html": "/audio-results/index.html",
+    "main.756af292.css.map": "/audio-results/static/css/main.756af292.css.map",
+    "main.6e9ac1d4.js.map": "/audio-results/static/js/main.6e9ac1d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.6e9ac1d4.js"
+  ]
+}
